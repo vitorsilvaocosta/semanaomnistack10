@@ -1,12 +1,49 @@
-# semanaomnistack10
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+</h1>
 
-Projeto criado na semana Omnistack 10 da Rocketseat
-Neste projeto foi usado Noje.js, ReactJS e ReactNative
+<h4 align="center">
+  🚀 Semana OmniStack 10.0
+</h4>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitorsilvaocosta/semanaomnistack10">
 
-O projeto prevê a criação de um back-end que irá atender a aplicação web e mobile.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vitorsilvaocosta/semanaomnistack10">
+  
+  <a href="https://github.com/vitorsilvaocosta/semanaomnistack10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-10">
+  </a>
 
-A aplicação web, cria usuários a partir do username GitHub, tecnologias e localizacao.
-Também irá exibir os usuários cadastrados que serão salvos no MongoDB.
+  <a href="https://github.com/vitorsilvaocosta/semanaomnistack10/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/vitorsilvaocosta/semanaomnistack10">
+  </a>
 
-A aplicação mobile, irá pesquisar os usuários cadastrados por tecnologias e serão exibidos no google maps os que tiverem as mesmas tecnologias num raio de 10 km perto da sua localização.
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Frontend" src=".github/devradar.png" width="100%">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
+## 💻 Projeto
+
+O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
