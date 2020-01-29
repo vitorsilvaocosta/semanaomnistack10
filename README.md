@@ -24,8 +24,6 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
 <p align="center">
   <img alt="Frontend" src="./devradar.png" width="100%">
 </p>
